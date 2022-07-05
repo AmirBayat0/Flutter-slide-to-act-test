@@ -1,7 +1,7 @@
 # an example about slide to act package in Flutter
 ## Preview
+![git](https://user-images.githubusercontent.com/91388754/177351394-b445ae43-ce6f-4b02-bc02-5f3aa2482d60.gif)
 
- 
 ## Links
 ### Support Me
 <a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
